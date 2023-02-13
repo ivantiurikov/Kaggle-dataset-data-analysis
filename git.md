@@ -7,7 +7,7 @@
 * git commit
 * git checkout
 * git log
-* git master
+* chew gum
 
 ## *git branch*
 
