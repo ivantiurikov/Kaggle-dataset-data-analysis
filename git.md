@@ -2,8 +2,8 @@
 
 ## Список команд, которые будут разобраны:
 
-* git init
-* git add
+* git branch
+* git branch -d
 * git commit
 * git checkout
 * git log
